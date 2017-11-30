@@ -1,0 +1,75 @@
+                                      PROYECTO FINAL – EDIFICIO INTELIGENTE
+
+
+                                          JUAN PABLO LONDOÑO AGUIRRE    
+                                          
+                                          DANIEL ANTONIO LÓPEZ ARAQUE
+                                          
+                                          JUAN GUILLERMO SÁNCHEZ BLANDÓN
+                                          
+
+
+                                                     PROFESOR:
+                                          INGENIERO HERNANDO VANEGAS LÓPEZ
+
+
+
+                                              FACULTAD DE INGENIERÍAS 
+
+                                             INGENIERIA INFORMÁTICA
+
+                                            ARQUITECTURA DE HARDWARE
+
+
+
+                                        POLITÉCNICO COLOMBIANO JAIME ISAZA CADAVID
+
+
+INFORMACIÓN DE INTERÉS
+
+*¿Qué es una  Raspberry?
+
+Raspberry Pi es un computador de placa reducida, computador de placa única o computador de placa simple (SBC) de bajo costo desarrollado
+en Reino Unido por la Fundación Raspberry Pi, con el objetivo de estimular la enseñanza de ciencias de la computación en las escuelas. 
+Raspberry Pi es una máquina sencilla con la potencia de un Smartphone de baja gama, pero que podemos utilizar para múltiples tareas y 
+que se ha extendido mucho en diversos campos durante los pocos años que lleva en el mercado. Hay varias distribuciones Linux pensadas 
+y desarrolladas para utilizar en Raspberry Pi.
+
+*¿Qué es Python?
+
+Python es considerado como uno de los lenguajes por excelencia recomendados para principiantes tanto en Raspberry Pi como en otros 
+dispositivos bajo cualquier sistema operativo. 
+Python es un lenguaje interpretado, esto significa que podremos escribir sencillos programas o instrucciones y ejecutarlos directamente
+sin necesidad de compilación en código máquina. Los lenguajes interpretados, entre otros puntos, nos ofrecen ciertas ventajas como no
+tener que definir explícitamente los tipos de variables (números, fechas,…) que vamos a usar en nuestro programa.
+
+El intérprete de Python puede ser ejecutado de dos modos:
+	Como Shell o consola interactiva donde ejecutar comandos individuales
+	Como línea de comandos contenidos en un único fichero ejecutable
+
+*Programación de Tkinter
+
+Tkinter es la biblioteca estándar de GUI para Python. Python, cuando se combina con Tkinter, proporciona una manera rápida y fácil
+de crear aplicaciones de GUI. Tkinter proporciona una poderosa interfaz orientada a objetos para el kit de herramientas Tk GUI.
+ 
+*¿Qué es PHP?
+
+PHP, siglas en inglés de Personal Home Page (página personal), es un lenguaje de programación de propósito general de código del lado
+del servidor originalmente diseñado para el desarrollo web de contenido dinámico. Fue uno de los primeros lenguajes de programación del
+lado del servidor que se podían incorporar directamente en el documento HTML en lugar de llamar a un archivo externo que procese los
+datos. El código es interpretado por un servidor web con un módulo de procesador de PHP que genera la página web resultante.
+
+*¿Qué es un Edificio Inteligente?
+
+Un edificio eficiente aprovecha la plataforma de conectividad avanzada para satisfacer las necesidades de espacio, instalaciones e IT,
+y mejora la eficiencia energética, el uso del espacio y la satisfacción de los ocupantes. En un edificio eficiente, la plataforma de 
+conectividad inteligente se adapta con facilidad a los cambios en el diseño del espacio y las tecnologías de comunicación. Una red de
+sensores de gran densidad se integra con otros sistemas del edificio para ofrecer un control basado en la ocupación y muy detallado de
+los sistemas del edificio. El resultado es el uso óptimo de la energía y un mayor confort de los trabajadores, a la vez que aporta la 
+perspectiva histórica y en tiempo real de los patrones de ocupación. 
+Un edificio conectado presume de una infraestructura de comunicaciones conectada que soporta redes de cableado e inalámbricas y sus 
+aplicaciones. También hace posible las comunicaciones máquina-a-máquina, persona-a-máquina y persona-a-persona dentro de edificio y con
+el mundo exterior, para lo que emplea una plataforma cableada e inalámbrica, flexible, inteligente y dotada de los últimos avances. Esta
+plataforma emplea redes LAN cableadas, Wi-Fi, red de telefonía móvil interior, sistemas audiovisuales, sensores, iluminación y aplicacion
+es de gestión del edificio. Los edificios también se conectan a la nube como un componente esencial de las redes eléctricas inteligentes
+y de las ciudades inteligentes.
